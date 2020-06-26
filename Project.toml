@@ -1,0 +1,4 @@
+name = "Constants"
+uuid = "99ec243f-b5ff-4cfb-9031-c62af3af014d"
+authors = ["Xinyang Li <soybeanyoung@gmail.com>"]
+version = "0.1.0"
